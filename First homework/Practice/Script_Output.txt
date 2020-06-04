@@ -1,0 +1,39 @@
+Modeling Geom(0.677) distribution.. 
+Saving 7 x 7 in image
+.. distribution has been modeled
+
+Calculating characteristics.. 
+Mean: 1.4805
+Biased variance: 0.72841975
+Unbiased variance: 0.728492599259926
+Standard deviation: 0.853517779111792
+Mean error: 0.00853517779111792
+Median: 1
+Max: 13
+Min: 1
+Interquartile range: 1
+Third central moment: 1.60674497025
+Forth central moment: 7.66156407342981
+Skewness: 2.58409950494969
+Kurtosis: 14.4366740009068
+.. characteristics calculated
+
+Estimating parameters.. 
+.. estimated using moments method: 0.675447483958122
+.. estimated using max likelyhood method: 0.675447483958122
+.. estimated parameters
+
+Processing Pearson's chi square test..
+.. chi square test processed: 118.509277021967
+
+Processing Shapiro-Wilk's test..
+.. normal distribution
+.. mean: 0
+.. standard deviation: 1
+
+	Shapiro-Wilk normality test
+
+data:  x
+W = 0.99792, p-value = 0.2521
+
+.. Shapiro-Wilk's test processed
